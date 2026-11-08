@@ -1,12 +1,31 @@
 # AmiFarmer (अमीफार्मर / আমিফার্মার)
 ### Autonomous Multimodal Agricultural Intelligence Engine & Farm Operating System for Precision Soil Pedology, Aquifer Hydrology, Crop Optimization, Market Arbitrage, and Rural Wealth Generation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amifarmer.streamlit.app/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14053218.svg)](https://doi.org/10.5281/zenodo.14053218)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Project Status](https://img.shields.io/badge/Status-Active%20Research%20%7C%20Production%20v1.0.0-success.svg)]()
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![Scientific Benchmarks](https://img.shields.io/badge/Pedology-ICAR--IARI%20Calibrated-brightgreen.svg)](https://icar.org.in/)
 [![Hydrology Standards](https://img.shields.io/badge/Hydrology-CGWB%20Dynamic%20Aquifer-blueviolet.svg)](http://cgwb.gov.in/)
 [![Economics Engine](https://img.shields.io/badge/Economics-CACP%20%26%20Agmarknet-orange.svg)](https://agmarknet.gov.in/)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+> 🌐 **Live Web Application**: Access the fully interactive AmiFarmer cloud dashboard directly on mobile or desktop at: **[https://amifarmer.streamlit.app/](https://amifarmer.streamlit.app/)**
+
+---
+
+## Project Status
+
+| Metric / Attribute | Current Status | Description |
+| :--- | :--- | :--- |
+| **Development Lifecycle** | `Production / Active Research (v1.0.0)` | Core analytical engines deployed and verified |
+| **Cloud Deployment** | `Live & Operational` | Deployed on Streamlit Community Cloud ([amifarmer.streamlit.app](https://amifarmer.streamlit.app/)) |
+| **Research Validation** | `ICAR-IARI & CGWB Calibrated` | Validated across 15 Indian Agro-Climatic Zones & CGWB Aquifers |
+| **Test Coverage** | `100% Pass Rate (9/9 Modules)` | Automated pytest suite covering pedology, hydrology, Pareto optimization |
+| **Digital Object Identifier** | `Zenodo Verified` | Archival repository tracked on Zenodo (`10.5281/zenodo.14053218`) |
+| **Licensing** | `MIT Open-Source Permissive` | Open for global farmer welfare, academic research, and commercial extension |
 
 ---
 
@@ -20,9 +39,9 @@ The system leverages closed-form pedo-transfer functions (Van Genuchten water re
 
 ---
 
-## 1. Introduction & The Structural Agrarian Problem
+## 1. Introduction & The Structural Agrarian Crisis
 
-Agriculture sustains over 58% of the Indian workforce and 1.2 billion people globally. Yet, the transition from subsistence cultivation to high-yield rural enterprise remains hindered by three systemic failures:
+Agriculture sustains over 58% of the Indian workforce and 1.2 billion people globally. Yet, the transition from subsistence cultivation to high-yield rural enterprise remains hindered by four systemic failures:
 
 1. **Information Asymmetry & Heuristic Fallacies**: Farmers typically depend on localized pesticide dealers for agronomic advice, resulting in severe over-fertilization (excessive Urea application pushing N:P:K ratios to distorted 8.2:3.2:1 against the ideal 4:2:1), micro-nutrient starvation (Zn, B, Fe), and secondary salinization.
 2. **Groundwater Extraction Blind Spots**: India extracts over 25% of the world’s groundwater (more than China and the United States combined). In regions such as the Trans-Gangetic plains (Punjab/Haryana) and the Western Deccan basaltic traps (Maharashtra/Karnataka), tubewells exceed 60-80 meters below ground level (mbgl), yet water-thirsty crops (paddy, sugarcane) continue to be planted without hydrological risk modeling.
@@ -301,12 +320,14 @@ python amifarmer/cli.py --state "West Bengal" --district "Hooghly" --acres 2.0 -
 ```
 
 ### 6.5 Running the Interactive Streamlit Web Application
-Launch the visual web dashboard:
+Launch the visual web dashboard locally:
 
 ```bash
 streamlit run amifarmer/ui/app.py
 ```
 Open your browser at `http://localhost:8501` to interact with charts, maps, sliders, subsidy portals, and downloadable bankable DPRs.
+
+Alternatively, use the deployed cloud application directly: **[https://amifarmer.streamlit.app/](https://amifarmer.streamlit.app/)**.
 
 ### 6.6 Running the Beginner Walkthrough Script
 Test the end-to-end beginner farmer simulation:
@@ -380,7 +401,20 @@ All agribusiness models produced by AmiFarmer conform to the **Model DPR Guideli
 
 ---
 
-## 10. References & Academic Bibliography
+## 10. Author & Scientific Affiliation
+
+**Arpan Ghosh**  
+*Principal Investigator & Applied AI Systems Engineer*  
+Birbhum, West Bengal, India  
+- **Specialization**: Autonomous Multi-Agent Systems, Physics-Informed ML, Agroecosystem Decoupling, Agribusiness Market Economics.
+- **Academic Background**: Postgraduate training in Agribusiness Management & Digital Market Economics (MBA, Savitribai Phule Pune University) with undergraduate research in Biotechnology (Cellular kinetics & molecular assays).
+- **GitHub**: [@Arpanthebaap](https://github.com/Arpanthebaap)  
+- **Email**: [arpanghosh984@gmail.com](mailto:arpanghosh984@gmail.com)  
+- **Other Research Frameworks**: [PhytoCausal](https://github.com/Arpanthebaap/PhytoCausal), [Curastrand](https://github.com/Arpanthebaap/curastrand), [KairOS](https://github.com/Arpanthebaap)
+
+---
+
+## 11. References & Academic Bibliography
 
 1. **Allen, R. G., Pereira, L. S., Raes, D., & Smith, M. (1998)**. *Crop evapotranspiration: Guidelines for computing crop water requirements*. FAO Irrigation and Drainage Paper 56, Food and Agriculture Organization of the United Nations, Rome.
 2. **Van Genuchten, M. T. (1980)**. *A closed-form equation for predicting the hydraulic conductivity of unsaturated soils*. Soil Science Society of America Journal, 44(5), 892-898.
@@ -395,6 +429,14 @@ All agribusiness models produced by AmiFarmer conform to the **Model DPR Guideli
 
 ---
 
+## Contributing & Code of Conduct
+
+AmiFarmer is an open scientific endeavor. We invite agricultural scientists, hydrologists, economists, and developers to contribute:
+- For contribution workflows, standards, and pull request procedures, see [CONTRIBUTING.md](CONTRIBUTING.md).
+- To foster an open and inclusive research environment, all community members adhere to the [Contributor Covenant v2.1](CODE_OF_CONDUCT.md).
+
+---
+
 ## Citation
 
 If you utilize AmiFarmer or its agronomic optimization algorithms in your research, field extension work, or software projects, please cite:
@@ -406,6 +448,7 @@ If you utilize AmiFarmer or its agronomic optimization algorithms in your resear
   year         = {2026},
   publisher    = {GitHub},
   version      = {1.0.0},
+  doi          = {10.5281/zenodo.14053218},
   url          = {https://github.com/Arpanthebaap/AmiFarmer}
 }
 ```
@@ -414,4 +457,4 @@ If you utilize AmiFarmer or its agronomic optimization algorithms in your resear
 
 ## License
 
-AmiFarmer is distributed under the **MIT License**. Permissive for open-source academic research, commercial deployment, and public extension service across the global farming community.
+AmiFarmer is distributed under the **MIT License**. See [LICENSE](LICENSE) for details. Permissive for open-source academic research, commercial deployment, and public extension service across the global farming community.
