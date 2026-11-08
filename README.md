@@ -2,7 +2,7 @@
 ### Autonomous Multimodal Agricultural Intelligence Engine & Farm Operating System for Precision Soil Pedology, Aquifer Hydrology, Crop Optimization, Market Arbitrage, and Rural Wealth Generation
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amifarmer.streamlit.app/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14053218.svg)](https://doi.org/10.5281/zenodo.14053218)
+[![DOI](https://zenodo.org/badge/1450091152.svg)](https://zenodo.org/badge/latestdoi/1450091152)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Project Status](https://img.shields.io/badge/Status-Active%20Research%20%7C%20Production%20v1.0.0-success.svg)]()
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
@@ -16,15 +16,24 @@
 
 ---
 
+## Visual Platform Overview
+
+<div align="center">
+  <img src="assets/screenshots/overview_dashboard.png" alt="AmiFarmer Executive Dashboard & Pareto Crop Optimizer" width="100%" />
+  <p><em>Figure 1: AmiFarmer Executive Farm Audit Dashboard displaying real-time Soil Health Score (88.3/100), CGWB Aquifer Depth (16.5 mbgl), Pareto-Optimal Crop Rankings, and Government Subsidies unlocked for a 3.0-acre farm in Nashik, Maharashtra.</em></p>
+</div>
+
+---
+
 ## Project Status
 
 | Metric / Attribute | Current Status | Description |
 | :--- | :--- | :--- |
-| **Development Lifecycle** | `Production / Active Research (v1.0.0)` | Core analytical engines deployed and verified |
+| **Development Lifecycle** | `Production / Active Research (v1.0.0)` | Core analytical engines deployed and empirically verified |
 | **Cloud Deployment** | `Live & Operational` | Deployed on Streamlit Community Cloud ([amifarmer.streamlit.app](https://amifarmer.streamlit.app/)) |
-| **Research Validation** | `ICAR-IARI & CGWB Calibrated` | Validated across 15 Indian Agro-Climatic Zones & CGWB Aquifers |
-| **Test Coverage** | `100% Pass Rate (9/9 Modules)` | Automated pytest suite covering pedology, hydrology, Pareto optimization |
-| **Digital Object Identifier** | `Zenodo Verified` | Archival repository tracked on Zenodo (`10.5281/zenodo.14053218`) |
+| **Research Validation** | `ICAR-IARI & CGWB Calibrated` | Validated across 15 Indian Agro-Climatic Zones & CGWB Aquifer Depths |
+| **Test Coverage** | `100% Pass Rate (9/9 Modules)` | Automated pytest suite covering pedology, hydrology, and Pareto optimization |
+| **Digital Object Identifier** | `Zenodo Active Tracker` | Archival repository tracked on Zenodo (GitHub Repo ID: `1450091152`) |
 | **Licensing** | `MIT Open-Source Permissive` | Open for global farmer welfare, academic research, and commercial extension |
 
 ---
@@ -187,7 +196,7 @@ flowchart TD
 
 ---
 
-## 4. Comprehensive Feature Deep Dive
+## 4. Comprehensive Feature Deep Dive with Interface Diagnostics
 
 ### 4.1 Zero-Knowledge Beginner Onboarding Mode
 A novice cultivator or urban agripreneur without agricultural knowledge simply inputs their **State and District** (or GPS coordinates) and farm area. AmiFarmer automatically:
@@ -196,16 +205,34 @@ A novice cultivator or urban agripreneur without agricultural knowledge simply i
 - Synthesizes baseline N-P-K reserves, Organic Carbon, and rainfall profiles.
 - Outputs an actionable seed-to-bank execution plan with zero ambiguity.
 
+---
+
 ### 4.2 Comprehensive Soil & Pedology Diagnostics
+
+<div align="center">
+  <img src="assets/screenshots/soil_diagnostics.png" alt="AmiFarmer Soil Fertility & Reclamation Diagnostics" width="100%" />
+  <p><em>Figure 2: Pedological diagnostic report displaying bulk density (1.45 g/cm³), porosity (52%), available water capacity (190 mm/m), detected micronutrient deficiencies (Boron at 0.48 ppm), and actionable chemical/organic reclamation roadmaps.</em></p>
+</div>
+
 - **Soil Health Score (SHS)**: Quantitative composite grading (Prime A, Good B, Moderate C, Degraded D).
 - **Physical Soil Physics**: Bulk density ($g/cm^3$), total porosity %, available water retention capacity ($mm/m$), and cation exchange capacity ($meq/100g$).
 - **Micro-Nutrient Surveillance**: DTPA-extractable Zinc, Boron, Iron, Manganese, and Sulphur.
 - **Stoichiometric Soil Reclamation**: Automatic calculation of mineral Gypsum (tons/acre) for alkaline sodic soils, and Agricultural Lime/Dolomite ($kg/acre$) for acidic red/laterite soils.
 
+---
+
 ### 4.3 Groundwater Table & Solar Irrigation Engineering
+
+<div align="center">
+  <img src="assets/screenshots/water_and_solar.png" alt="AmiFarmer Groundwater Assessment & Solar Pump Sizing" width="100%" />
+  <p><em>Figure 3: Hydrology engine displaying CGWB aquifer depth (16.5 mbgl), recommended Broad Bed Furrow (BBF) + Inline Drip methodology (45% water savings, +30% yield boost), and PM-KUSUM 5.0 HP solar pump sizing saving 501 Litres of diesel annually (₹46,092/year).</em></p>
+</div>
+
 - **CGWB Dynamic Classification**: Real-time evaluation of safe vs critical aquifer zones.
 - **Micro-Irrigation Sizing**: Automatic design of pressure-compensating inline drip systems (saving 55% water and boosting yield by 35-50%).
 - **PM-KUSUM Solar Pump Sizer**: Computes Total Dynamic Head, determines required pump horsepower (3HP, 5HP, 7.5HP, 10HP), calculates required solar PV wattage ($W_p$), models 60% government capital subsidy, and projects annual diesel savings in liters and rupees.
+
+---
 
 ### 4.4 65+ Crop & Vegetable Pareto Optimizer
 Covers crops across diverse agronomic sectors:
@@ -219,7 +246,21 @@ Covers crops across diverse agronomic sectors:
 - **Medicinal & Aromatic Plants (MAPs)**: Ashwagandha (zero cattle grazing damage), Lemongrass, Stevia.
 - **Agroforestry & High-Value Timber**: White Sandalwood (*Santalum album*) with host plants (*Casuarina*, *Sesbania*), creating multi-crore intergenerational wealth.
 
-### 4.5 7-Stage Precision Agronomy Calendar
+---
+
+### 4.5 Market Price Arbitrage & Post-Harvest Value Addition
+
+<div align="center">
+  <img src="assets/screenshots/market_arbitrage.png" alt="AmiFarmer Market Intelligence & Value Addition Multiplier" width="100%" />
+  <p><em>Figure 4: Market Arbitrage Engine evaluating APMC Mandi wholesale realization vs. FPO collective aggregation vs. Direct-to-Consumer (D2C) channels and post-harvest value addition multipliers.</em></p>
+</div>
+
+- Evaluates wholesale APMC Mandi rates, FPO collective marketing, and direct-to-consumer farm-gate subscriptions.
+- Identifies value-addition transformation opportunities (e.g. Mustard to cold-pressed oil, Pulses to dal, Raw turmeric to curcumin powder).
+
+---
+
+### 4.6 7-Stage Precision Agronomy Calendar
 Every recommended crop receives an exact day-by-day operational chronogram:
 - **Stage 0 (Day -15 to 0)**: Deep summer ploughing, basal NPK/FYM incorporation, laser land leveling.
 - **Stage 1 (Day 1 to 10)**: Seed bio-treatment with *Trichoderma viride* and *Azotobacter* / *Rhizobium*, seed drill calibration.
@@ -229,17 +270,29 @@ Every recommended crop receives an exact day-by-day operational chronogram:
 - **Stage 5 (Day 91 to Maturity)**: Grain/fruit filling, potassium sulphate ($00:00:50$) application, irrigation cutoff 15 days before harvest.
 - **Stage 6 (Harvest & Storage)**: Mechanical reaping, threshold moisture curing (<12%), hermetic PICS bag storage.
 
-### 4.6 Integrated Pest Management (IPM) & Plant Protection
+---
+
+### 4.7 Integrated Pest Management (IPM) & Plant Protection
 - **Pest Complex Diagnostics**: Detailed symptoms for stem borers, fall armyworms, pod borers, thrips, aphids, rusts, and blights.
 - **Eco-Friendly Biocontrols**: Cold-pressed neem oil (10,000 ppm), *Trichoderma harzianum*, *Pseudomonas fluorescens*, pheromone lures, yellow/blue sticky sheets.
 - **Chemical Therapeutics with Strict Pre-Harvest Intervals (PHI)**: Explicit dosage per liter and safety waiting periods before harvesting to prevent hazardous pesticide residue.
 
-### 4.7 Farm Mechanization & Custom Hiring Center (CHC) Advisor
+---
+
+### 4.8 Farm Mechanization & Custom Hiring Center (CHC) Advisor
 - Prevents smallholder debt over-capitalization by computing **Buy vs. Rent Break-Even Analysis**.
 - Directs farmers with <5 acres to rent heavy utility tractors (50HP), laser land levelers, and combine harvesters from nearby Custom Hiring Centers via the government **FARMS App** at capped hourly rates.
 - Models 40-50% subsidies under the **Sub-Mission on Agricultural Mechanization (SMAM)** for compact 4WD mini-tractors and rotavators.
 
-### 4.8 Government Subsidies & Policy Graph Execution
+---
+
+### 4.9 Government Subsidies & Schemes Integration
+
+<div align="center">
+  <img src="assets/screenshots/subsidies_portal.png" alt="AmiFarmer Government Subsidies & Schemes Portal" width="100%" />
+  <p><em>Figure 5: Government Schemes and Subsidies Matcher showing 7 unlocked statutory programs (PM-KISAN, PMKSY, PM-KUSUM, SMAM, AIF, MIDH, PKVY) with cumulative financial assistance of ₹732,000.</em></p>
+</div>
+
 Matches each farm against central and state schemes:
 - **PM-KISAN**: ₹6,000/year direct income transfer.
 - **PMKSY (Per Drop More Crop)**: 55% capital subsidy for drip/sprinkler micro-irrigation systems.
@@ -250,7 +303,9 @@ Matches each farm against central and state schemes:
 - **PKVY**: ₹50,000/hectare grant for natural and organic farming clusters under PGS-India certification.
 - Generates a **complete statutory document checklist** and direct official application portal URLs.
 
-### 4.9 Turnkey Agribusiness Incubator & Bankable DPR Generator
+---
+
+### 4.10 Turnkey Agribusiness Incubator & Bankable DPR Generator
 Provides comprehensive, bank-ready Detailed Project Reports (DPR) conforming to NABARD and Ministry of Food Processing Industries (MoFPI) standards:
 - **Mini Dal Mill & Pulse Processing Enterprise**
 - **Cold-Pressed Wood Pressed (Kachi Ghani) Oil Unit**
@@ -354,8 +409,8 @@ python -m pytest tests/ -v
   - Prescribed green manuring with Dhaincha and foliar Solubor borax spray.
   - Advised against a heavy 50HP tractor; recommended renting rotavator and laser leveler from local Custom Hiring Center (saving ₹4.2 Lakhs in debt).
   - Ranked High-Value Protected Polyhouse Capsicum and Oyster Mushroom as top revenue generators.
-  - Sized a 5.0 HP solar submersible pump saving 418 liters of diesel annually (₹38,456/yr recurring savings) under PM-KUSUM with a 60% subsidy.
-  - Unlocked ₹7.22 Lakhs in cumulative government subsidies (PMKSY, PM-KUSUM, SMAM, PM-KISAN).
+  - Sized a 5.0 HP solar submersible pump saving 501 liters of diesel annually (₹46,092/yr recurring savings) under PM-KUSUM with a 60% subsidy.
+  - Unlocked ₹7.32 Lakhs in cumulative government subsidies (PMKSY, PM-KUSUM, SMAM, PM-KISAN, MIDH, AIF, PKVY).
   - Prepared a turnkey Mini Dal Mill Detailed Project Report yielding Year-2 projected net profits of ₹6.75 Lakhs with a 1.2-year payback period.
 
 ### Case Study B: The Water-Stressed Smallholder in Sangrur, Punjab
@@ -448,7 +503,6 @@ If you utilize AmiFarmer or its agronomic optimization algorithms in your resear
   year         = {2026},
   publisher    = {GitHub},
   version      = {1.0.0},
-  doi          = {10.5281/zenodo.14053218},
   url          = {https://github.com/Arpanthebaap/AmiFarmer}
 }
 ```
