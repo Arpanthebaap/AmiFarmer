@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# Testing & logs
+.pytest_cache/
+*.log
+test_output.json
+farm_audit_*.json
+.coverage
+htmlcov/
+
+# OS specific
+.DS_Store
+Thumbs.db

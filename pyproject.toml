@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "amifarmer"
+version = "1.0.0"
+description = "Autonomous Multimodal Agricultural Intelligence Engine & Farm OS for Precision Agronomy, Soil Hydrology, Market Arbitrage, and Rural Wealth Generation"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Arpan Ghosh", email = "research@amifarmer.org" }
+]
+keywords = [
+    "agriculture",
+    "precision-agronomy",
+    "soil-pedology",
+    "groundwater-hydrology",
+    "agritech",
+    "crop-optimization",
+    "mandi-prices",
+    "rural-economics",
+    "farm-os"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: End Users/Desktop",
+    "Topic :: Scientific/Engineering",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "Topic :: Scientific/Engineering :: Hydrology",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12"
+]
+dependencies = [
+    "pydantic>=2.0.0",
+    "rich>=13.0.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "streamlit>=1.30.0",
+    "altair>=5.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0"
+]
+
+[project.scripts]
+amifarmer = "amifarmer.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["amifarmer*"]
+
+[tool.setuptools.package-data]
+amifarmer = ["data/*.json"]

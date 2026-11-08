@@ -1,0 +1,1004 @@
+[
+  {
+    "crop_id": "WHEAT-01",
+    "common_name": "Wheat",
+    "hindi_name": "गेहूं (Gehun)",
+    "scientific_name": "Triticum aestivum",
+    "category": "Cereal & Grain",
+    "seasons": [
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 130,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 7.8,
+      "optimal_ph": 6.8,
+      "min_temp_c": 10.0,
+      "max_temp_c": 28.0,
+      "optimal_temp_c": 21.0,
+      "water_requirement_mm": 450.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Low",
+      "nitrogen_demand_kg_ha": 120.0,
+      "phosphorus_demand_kg_ha": 60.0,
+      "potassium_demand_kg_ha": 40.0,
+      "soil_textures_compatible": [
+        "Alluvial",
+        "Clay Loam",
+        "Black Cotton (Vertisol)"
+      ],
+      "sunlight_requirement_hours": 7.0
+    },
+    "average_yield_quintals_per_acre": 18.5,
+    "high_tech_yield_quintals_per_acre": 24.0,
+    "msp_price_per_quintal_inr": 2425.0,
+    "market_modal_price_per_quintal_inr": 2550.0,
+    "direct_to_consumer_price_per_quintal_inr": 3400.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 16500.0,
+    "special_suitability_tags": [
+      "High Food Security",
+      "Guaranteed MSP Procurement",
+      "Mechanization Friendly"
+    ],
+    "agronomy_notes": "Requires critical Crown Root Initiation (CRI) irrigation at 21 days after sowing. Avoid terminal heat stress with late-sown HD-3086 or DBW-187 varieties."
+  },
+  {
+    "crop_id": "RICE-BASMATI-02",
+    "common_name": "Basmati Rice",
+    "hindi_name": "बासमती धान (Basmati Dhan)",
+    "scientific_name": "Oryza sativa var. Basmati",
+    "category": "Cereal & Grain",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)"
+    ],
+    "growth_duration_days": 140,
+    "requirements": {
+      "min_ph": 5.5,
+      "max_ph": 7.5,
+      "optimal_ph": 6.5,
+      "min_temp_c": 20.0,
+      "max_temp_c": 36.0,
+      "optimal_temp_c": 28.0,
+      "water_requirement_mm": 1100.0,
+      "drought_tolerance": "Low",
+      "waterlogging_tolerance": "High",
+      "nitrogen_demand_kg_ha": 110.0,
+      "phosphorus_demand_kg_ha": 50.0,
+      "potassium_demand_kg_ha": 50.0,
+      "soil_textures_compatible": [
+        "Alluvial",
+        "Clay Loam"
+      ],
+      "sunlight_requirement_hours": 6.5
+    },
+    "average_yield_quintals_per_acre": 17.0,
+    "high_tech_yield_quintals_per_acre": 22.0,
+    "msp_price_per_quintal_inr": 2320.0,
+    "market_modal_price_per_quintal_inr": 4200.0,
+    "direct_to_consumer_price_per_quintal_inr": 6500.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 22000.0,
+    "special_suitability_tags": [
+      "Export Grade",
+      "Premium Market Realization",
+      "High Water Intensive"
+    ],
+    "agronomy_notes": "Pusa 1121 and Pusa 1718 are top export varieties. Use Alternate Wetting and Drying (AWD) or Direct Seeded Rice (DSR) to reduce water usage by 30%."
+  },
+  {
+    "crop_id": "MAIZE-03",
+    "common_name": "Maize (Corn)",
+    "hindi_name": "मक्का (Makka)",
+    "scientific_name": "Zea mays",
+    "category": "Cereal & Grain",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)",
+      "Rabi (Winter: Nov - April)",
+      "Zaid (Summer: March - June)"
+    ],
+    "growth_duration_days": 105,
+    "requirements": {
+      "min_ph": 5.8,
+      "max_ph": 7.8,
+      "optimal_ph": 6.5,
+      "min_temp_c": 18.0,
+      "max_temp_c": 37.0,
+      "optimal_temp_c": 27.0,
+      "water_requirement_mm": 500.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Low",
+      "nitrogen_demand_kg_ha": 130.0,
+      "phosphorus_demand_kg_ha": 60.0,
+      "potassium_demand_kg_ha": 40.0,
+      "soil_textures_compatible": [
+        "Alluvial",
+        "Red Sandy Loam",
+        "Clay Loam",
+        "Black Cotton (Vertisol)"
+      ],
+      "sunlight_requirement_hours": 7.5
+    },
+    "average_yield_quintals_per_acre": 25.0,
+    "high_tech_yield_quintals_per_acre": 35.0,
+    "msp_price_per_quintal_inr": 2225.0,
+    "market_modal_price_per_quintal_inr": 2400.0,
+    "direct_to_consumer_price_per_quintal_inr": 3100.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 18000.0,
+    "special_suitability_tags": [
+      "Poultry & Ethanol Feedstock Demand",
+      "Short Duration",
+      "Triple Season Cultivable"
+    ],
+    "agronomy_notes": "Fall Armyworm (Spodoptera frugiperda) monitoring is critical at knee-high stage. Use pheromone traps and Metarhizium anisopliae bio-pesticide."
+  },
+  {
+    "crop_id": "MILLET-BAJRA-04",
+    "common_name": "Pearl Millet (Bajra)",
+    "hindi_name": "बाजरा (Bajra)",
+    "scientific_name": "Pennisetum glaucum",
+    "category": "Superfood Millet (Nutri-Cereal)",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)",
+      "Zaid (Summer: March - June)"
+    ],
+    "growth_duration_days": 85,
+    "requirements": {
+      "min_ph": 6.5,
+      "max_ph": 8.5,
+      "optimal_ph": 7.2,
+      "min_temp_c": 20.0,
+      "max_temp_c": 44.0,
+      "optimal_temp_c": 32.0,
+      "water_requirement_mm": 280.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Low",
+      "nitrogen_demand_kg_ha": 60.0,
+      "phosphorus_demand_kg_ha": 30.0,
+      "potassium_demand_kg_ha": 20.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Desert Sandy",
+        "Red Sandy Loam"
+      ],
+      "sunlight_requirement_hours": 8.0
+    },
+    "average_yield_quintals_per_acre": 12.0,
+    "high_tech_yield_quintals_per_acre": 16.0,
+    "msp_price_per_quintal_inr": 2625.0,
+    "market_modal_price_per_quintal_inr": 2750.0,
+    "direct_to_consumer_price_per_quintal_inr": 4500.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 9500.0,
+    "special_suitability_tags": [
+      "Extremely Drought Tolerant",
+      "Low Water Footprint",
+      "International Year of Millets Demand"
+    ],
+    "agronomy_notes": "Thrives in arid/semi-arid regions where other crops fail. Minimal fertilizer required; excellent companion crop with pulses."
+  },
+  {
+    "crop_id": "MILLET-RAGI-05",
+    "common_name": "Finger Millet (Ragi)",
+    "hindi_name": "रागी / मंडुआ (Ragi / Mandua)",
+    "scientific_name": "Eleusine coracana",
+    "category": "Superfood Millet (Nutri-Cereal)",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)",
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 105,
+    "requirements": {
+      "min_ph": 5.0,
+      "max_ph": 7.8,
+      "optimal_ph": 6.2,
+      "min_temp_c": 15.0,
+      "max_temp_c": 36.0,
+      "optimal_temp_c": 27.0,
+      "water_requirement_mm": 350.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Moderate",
+      "nitrogen_demand_kg_ha": 50.0,
+      "phosphorus_demand_kg_ha": 40.0,
+      "potassium_demand_kg_ha": 25.0,
+      "soil_textures_compatible": [
+        "Red Sandy Loam",
+        "Laterite",
+        "Alluvial"
+      ],
+      "sunlight_requirement_hours": 7.0
+    },
+    "average_yield_quintals_per_acre": 11.5,
+    "high_tech_yield_quintals_per_acre": 15.0,
+    "msp_price_per_quintal_inr": 4290.0,
+    "market_modal_price_per_quintal_inr": 4450.0,
+    "direct_to_consumer_price_per_quintal_inr": 7200.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 11000.0,
+    "special_suitability_tags": [
+      "Highest Calcium Grain",
+      "Acid Soil Tolerant",
+      "High D2C Health Market Margin"
+    ],
+    "agronomy_notes": "Ideal for South India and Himalayan slopes. Outstanding nutritional value (344mg Calcium/100g). Very low pest incidence."
+  },
+  {
+    "crop_id": "PULSE-CHICKPEA-06",
+    "common_name": "Chickpea (Gram / Chana)",
+    "hindi_name": "चना (Chana)",
+    "scientific_name": "Cicer arietinum",
+    "category": "Pulse / Legume",
+    "seasons": [
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 110,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 8.0,
+      "optimal_ph": 7.0,
+      "min_temp_c": 12.0,
+      "max_temp_c": 32.0,
+      "optimal_temp_c": 22.0,
+      "water_requirement_mm": 260.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 20.0,
+      "phosphorus_demand_kg_ha": 50.0,
+      "potassium_demand_kg_ha": 20.0,
+      "soil_textures_compatible": [
+        "Black Cotton (Vertisol)",
+        "Clay Loam",
+        "Alluvial",
+        "Sandy Loam"
+      ],
+      "sunlight_requirement_hours": 7.5
+    },
+    "average_yield_quintals_per_acre": 8.5,
+    "high_tech_yield_quintals_per_acre": 12.5,
+    "msp_price_per_quintal_inr": 5650.0,
+    "market_modal_price_per_quintal_inr": 5900.0,
+    "direct_to_consumer_price_per_quintal_inr": 8500.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 11500.0,
+    "special_suitability_tags": [
+      "Fixes Atmospheric Nitrogen",
+      "Low Irrigation Needed",
+      "Residual Soil Enrichment"
+    ],
+    "agronomy_notes": "Inoculate seeds with Rhizobium and PSB culture. Pod borer (Helicoverpa armigera) control via HaNPV and pheromone traps."
+  },
+  {
+    "crop_id": "PULSE-PIGEONPEA-07",
+    "common_name": "Pigeon Pea (Arhar / Tur)",
+    "hindi_name": "अरहर / तूर (Arhar / Tur)",
+    "scientific_name": "Cajanus cajan",
+    "category": "Pulse / Legume",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)"
+    ],
+    "growth_duration_days": 160,
+    "requirements": {
+      "min_ph": 6.2,
+      "max_ph": 8.0,
+      "optimal_ph": 7.1,
+      "min_temp_c": 18.0,
+      "max_temp_c": 38.0,
+      "optimal_temp_c": 28.0,
+      "water_requirement_mm": 400.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 25.0,
+      "phosphorus_demand_kg_ha": 60.0,
+      "potassium_demand_kg_ha": 30.0,
+      "soil_textures_compatible": [
+        "Black Cotton (Vertisol)",
+        "Alluvial",
+        "Red Sandy Loam"
+      ],
+      "sunlight_requirement_hours": 7.0
+    },
+    "average_yield_quintals_per_acre": 7.5,
+    "high_tech_yield_quintals_per_acre": 11.0,
+    "msp_price_per_quintal_inr": 7550.0,
+    "market_modal_price_per_quintal_inr": 9200.0,
+    "direct_to_consumer_price_per_quintal_inr": 14000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 14000.0,
+    "special_suitability_tags": [
+      "High Market Price",
+      "Deep Taproot Soil Aeration",
+      "Intercropping Compatible with Soybean/Cotton"
+    ],
+    "agronomy_notes": "Deep taproot breaks hard subsoil pans. Intercrop 1:2 with soybean to maximize per-acre revenue."
+  },
+  {
+    "crop_id": "PULSE-MOONG-08",
+    "common_name": "Green Gram (Moong)",
+    "hindi_name": "मूंग दाल (Moong)",
+    "scientific_name": "Vigna radiata",
+    "category": "Pulse / Legume",
+    "seasons": [
+      "Zaid (Summer: March - June)",
+      "Kharif (Monsoon: June - Oct)"
+    ],
+    "growth_duration_days": 65,
+    "requirements": {
+      "min_ph": 6.2,
+      "max_ph": 7.8,
+      "optimal_ph": 6.9,
+      "min_temp_c": 22.0,
+      "max_temp_c": 40.0,
+      "optimal_temp_c": 30.0,
+      "water_requirement_mm": 220.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Low",
+      "nitrogen_demand_kg_ha": 15.0,
+      "phosphorus_demand_kg_ha": 40.0,
+      "potassium_demand_kg_ha": 20.0,
+      "soil_textures_compatible": [
+        "Alluvial",
+        "Sandy Loam",
+        "Clay Loam"
+      ],
+      "sunlight_requirement_hours": 8.0
+    },
+    "average_yield_quintals_per_acre": 5.5,
+    "high_tech_yield_quintals_per_acre": 8.0,
+    "msp_price_per_quintal_inr": 8682.0,
+    "market_modal_price_per_quintal_inr": 8900.0,
+    "direct_to_consumer_price_per_quintal_inr": 12500.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 8500.0,
+    "special_suitability_tags": [
+      "Ultra Short 65-Day Catch Crop",
+      "Zero-Budget Summer Income",
+      "Green Manuring Residue"
+    ],
+    "agronomy_notes": "Perfect summer catch crop between Wheat harvest and Paddy transplanting. Adds 35-40 kg N/ha into soil."
+  },
+  {
+    "crop_id": "OIL-MUSTARD-09",
+    "common_name": "Mustard / Rapeseed",
+    "hindi_name": "सरसों / राई (Sarson / Rai)",
+    "scientific_name": "Brassica juncea",
+    "category": "Oilseed",
+    "seasons": [
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 115,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 8.2,
+      "optimal_ph": 7.1,
+      "min_temp_c": 10.0,
+      "max_temp_c": 27.0,
+      "optimal_temp_c": 19.0,
+      "water_requirement_mm": 250.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Low",
+      "nitrogen_demand_kg_ha": 80.0,
+      "phosphorus_demand_kg_ha": 40.0,
+      "potassium_demand_kg_ha": 40.0,
+      "soil_textures_compatible": [
+        "Alluvial",
+        "Sandy Loam",
+        "Clay Loam"
+      ],
+      "sunlight_requirement_hours": 7.0
+    },
+    "average_yield_quintals_per_acre": 8.0,
+    "high_tech_yield_quintals_per_acre": 11.5,
+    "msp_price_per_quintal_inr": 5950.0,
+    "market_modal_price_per_quintal_inr": 6200.0,
+    "direct_to_consumer_price_per_quintal_inr": 9500.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 10500.0,
+    "special_suitability_tags": [
+      "Sulphur Responsive (High Oil %)",
+      "Bee-keeping Honey Synergy",
+      "Low Water Need"
+    ],
+    "agronomy_notes": "Apply elemental Sulphur or Gypsum (25 kg/ha) to boost oil content from 38% to 42%. Guard against aphid attacks during flowering with yellow sticky traps."
+  },
+  {
+    "crop_id": "OIL-GROUNDNUT-10",
+    "common_name": "Groundnut (Peanut)",
+    "hindi_name": "मूंगफली (Moongphali)",
+    "scientific_name": "Arachis hypogaea",
+    "category": "Oilseed",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)",
+      "Zaid (Summer: March - June)"
+    ],
+    "growth_duration_days": 110,
+    "requirements": {
+      "min_ph": 5.8,
+      "max_ph": 7.5,
+      "optimal_ph": 6.5,
+      "min_temp_c": 22.0,
+      "max_temp_c": 36.0,
+      "optimal_temp_c": 28.0,
+      "water_requirement_mm": 450.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Low",
+      "nitrogen_demand_kg_ha": 25.0,
+      "phosphorus_demand_kg_ha": 50.0,
+      "potassium_demand_kg_ha": 40.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Red Sandy Loam",
+        "Alluvial"
+      ],
+      "sunlight_requirement_hours": 8.0
+    },
+    "average_yield_quintals_per_acre": 10.5,
+    "high_tech_yield_quintals_per_acre": 15.0,
+    "msp_price_per_quintal_inr": 6783.0,
+    "market_modal_price_per_quintal_inr": 7200.0,
+    "direct_to_consumer_price_per_quintal_inr": 11000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 15500.0,
+    "special_suitability_tags": [
+      "Requires Friable Sandy Soil for Pegging",
+      "High Edible Oil Demand",
+      "Exportable Peanut Kernels"
+    ],
+    "agronomy_notes": "Needs friable, loose soil for easy gynophore peg penetration. Apply Gypsum at 45 days after sowing for solid pod filling and calcium nutrition."
+  },
+  {
+    "crop_id": "OIL-SOYBEAN-11",
+    "common_name": "Soybean",
+    "hindi_name": "सोयाबीन (Soyabean)",
+    "scientific_name": "Glycine max",
+    "category": "Oilseed",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)"
+    ],
+    "growth_duration_days": 95,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 7.8,
+      "optimal_ph": 6.8,
+      "min_temp_c": 20.0,
+      "max_temp_c": 35.0,
+      "optimal_temp_c": 27.0,
+      "water_requirement_mm": 480.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Low",
+      "nitrogen_demand_kg_ha": 30.0,
+      "phosphorus_demand_kg_ha": 60.0,
+      "potassium_demand_kg_ha": 30.0,
+      "soil_textures_compatible": [
+        "Black Cotton (Vertisol)",
+        "Clay Loam",
+        "Alluvial"
+      ],
+      "sunlight_requirement_hours": 7.0
+    },
+    "average_yield_quintals_per_acre": 9.0,
+    "high_tech_yield_quintals_per_acre": 13.0,
+    "msp_price_per_quintal_inr": 4892.0,
+    "market_modal_price_per_quintal_inr": 4750.0,
+    "direct_to_consumer_price_per_quintal_inr": 6500.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 13500.0,
+    "special_suitability_tags": [
+      "Central India Spine Crop",
+      "Broad Bed Furrow (BBF) Drainage Essential"
+    ],
+    "agronomy_notes": "Sow on Broad Bed Furrow (BBF) to prevent water stagnation in heavy black clay soils during monsoon downpours."
+  },
+  {
+    "crop_id": "VEG-TOMATO-12",
+    "common_name": "Tomato",
+    "hindi_name": "टमाटर (Tamatar)",
+    "scientific_name": "Solanum lycopersicum",
+    "category": "Vegetable",
+    "seasons": [
+      "Rabi (Winter: Nov - April)",
+      "Kharif (Monsoon: June - Oct)",
+      "Zaid (Summer: March - June)"
+    ],
+    "growth_duration_days": 110,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 7.5,
+      "optimal_ph": 6.7,
+      "min_temp_c": 16.0,
+      "max_temp_c": 35.0,
+      "optimal_temp_c": 24.0,
+      "water_requirement_mm": 550.0,
+      "drought_tolerance": "Low",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 150.0,
+      "phosphorus_demand_kg_ha": 80.0,
+      "potassium_demand_kg_ha": 120.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Clay Loam",
+        "Alluvial",
+        "Red Sandy Loam"
+      ],
+      "sunlight_requirement_hours": 7.5
+    },
+    "average_yield_quintals_per_acre": 140.0,
+    "high_tech_yield_quintals_per_acre": 260.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 1600.0,
+    "direct_to_consumer_price_per_quintal_inr": 3200.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 48000.0,
+    "special_suitability_tags": [
+      "Staking Recommended",
+      "Drip Fertigation Best Match",
+      "High Return on Investment"
+    ],
+    "agronomy_notes": "Trellis/staking with bamboo poles prevents ground fruit rot and doubles clean yield. Drip irrigation prevents blossom-end rot via consistent calcium uptake."
+  },
+  {
+    "crop_id": "VEG-ONION-13",
+    "common_name": "Onion",
+    "hindi_name": "प्याज (Pyaaz)",
+    "scientific_name": "Allium cepa",
+    "category": "Vegetable",
+    "seasons": [
+      "Rabi (Winter: Nov - April)",
+      "Kharif (Monsoon: June - Oct)"
+    ],
+    "growth_duration_days": 125,
+    "requirements": {
+      "min_ph": 6.2,
+      "max_ph": 7.8,
+      "optimal_ph": 6.8,
+      "min_temp_c": 13.0,
+      "max_temp_c": 34.0,
+      "optimal_temp_c": 22.0,
+      "water_requirement_mm": 450.0,
+      "drought_tolerance": "Low",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 100.0,
+      "phosphorus_demand_kg_ha": 50.0,
+      "potassium_demand_kg_ha": 80.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Alluvial",
+        "Clay Loam"
+      ],
+      "sunlight_requirement_hours": 8.0
+    },
+    "average_yield_quintals_per_acre": 100.0,
+    "high_tech_yield_quintals_per_acre": 160.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 2100.0,
+    "direct_to_consumer_price_per_quintal_inr": 4000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 38000.0,
+    "special_suitability_tags": [
+      "Solar Cold Storage Goldmine",
+      "Export Surge Potential",
+      "High Price Volatility"
+    ],
+    "agronomy_notes": "Rabi onion (Bhima Kiran, N-2-4-1) stores well for 5-6 months in ventilated chawls. Stop irrigation 15 days before harvest for neck curing."
+  },
+  {
+    "crop_id": "VEG-POTATO-14",
+    "common_name": "Potato",
+    "hindi_name": "आलू (Aaloo)",
+    "scientific_name": "Solanum tuberosum",
+    "category": "Vegetable",
+    "seasons": [
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 90,
+    "requirements": {
+      "min_ph": 5.2,
+      "max_ph": 6.8,
+      "optimal_ph": 6.0,
+      "min_temp_c": 10.0,
+      "max_temp_c": 25.0,
+      "optimal_temp_c": 18.0,
+      "water_requirement_mm": 400.0,
+      "drought_tolerance": "Low",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 150.0,
+      "phosphorus_demand_kg_ha": 80.0,
+      "potassium_demand_kg_ha": 120.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Alluvial"
+      ],
+      "sunlight_requirement_hours": 7.0
+    },
+    "average_yield_quintals_per_acre": 110.0,
+    "high_tech_yield_quintals_per_acre": 160.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 1250.0,
+    "direct_to_consumer_price_per_quintal_inr": 2400.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 35000.0,
+    "special_suitability_tags": [
+      "Processing Variety Contract (Kufri Chipsona)",
+      "High Volume Storable"
+    ],
+    "agronomy_notes": "Kufri Chipsona-1 and 3 command a 30% premium from chip manufacturing companies (PepsiCo, Haldiram's). Late blight spraying with Mancozeb is non-negotiable."
+  },
+  {
+    "crop_id": "VEG-CHILLI-15",
+    "common_name": "Chilli (Green & Red)",
+    "hindi_name": "मिर्च (Mirch)",
+    "scientific_name": "Capsicum annuum",
+    "category": "Spice & Condiment",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)",
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 150,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 7.8,
+      "optimal_ph": 6.8,
+      "min_temp_c": 18.0,
+      "max_temp_c": 36.0,
+      "optimal_temp_c": 26.0,
+      "water_requirement_mm": 500.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 120.0,
+      "phosphorus_demand_kg_ha": 60.0,
+      "potassium_demand_kg_ha": 60.0,
+      "soil_textures_compatible": [
+        "Black Cotton (Vertisol)",
+        "Red Sandy Loam",
+        "Alluvial",
+        "Clay Loam"
+      ],
+      "sunlight_requirement_hours": 7.5
+    },
+    "average_yield_quintals_per_acre": 25.0,
+    "high_tech_yield_quintals_per_acre": 40.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 14500.0,
+    "direct_to_consumer_price_per_quintal_inr": 22000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 55000.0,
+    "special_suitability_tags": [
+      "Guntur Mandi Benchmark",
+      "High Value Spices Board Export",
+      "Staggered Harvest"
+    ],
+    "agronomy_notes": "Manage thrips (Scirtothrips dorsalis) and mites with blue sticky traps and neem oil. High returns when sun-dried properly for Guntur/Byadgi quality."
+  },
+  {
+    "crop_id": "VEG-GARLIC-16",
+    "common_name": "Garlic",
+    "hindi_name": "लहसुन (Lahsun)",
+    "scientific_name": "Allium sativum",
+    "category": "Spice & Condiment",
+    "seasons": [
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 140,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 7.5,
+      "optimal_ph": 6.8,
+      "min_temp_c": 12.0,
+      "max_temp_c": 28.0,
+      "optimal_temp_c": 20.0,
+      "water_requirement_mm": 400.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 100.0,
+      "phosphorus_demand_kg_ha": 50.0,
+      "potassium_demand_kg_ha": 80.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Clay Loam",
+        "Black Cotton (Vertisol)"
+      ],
+      "sunlight_requirement_hours": 7.5
+    },
+    "average_yield_quintals_per_acre": 35.0,
+    "high_tech_yield_quintals_per_acre": 55.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 11000.0,
+    "direct_to_consumer_price_per_quintal_inr": 18000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 42000.0,
+    "special_suitability_tags": [
+      "Super-High Profit Potential",
+      "Long Shelf Life (8+ Months)",
+      "Paste Processing Demand"
+    ],
+    "agronomy_notes": "G-282 (Amleta) and Yamuna Safed-3 produce large export-grade cloves. Sulphur application (30 kg/ha) increases allicin potency and pungency."
+  },
+  {
+    "crop_id": "VEG-GINGER-17",
+    "common_name": "Ginger",
+    "hindi_name": "अदरक (Adrak)",
+    "scientific_name": "Zingiber officinale",
+    "category": "Spice & Condiment",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)",
+      "Perennial / Year-Round"
+    ],
+    "growth_duration_days": 240,
+    "requirements": {
+      "min_ph": 5.5,
+      "max_ph": 6.8,
+      "optimal_ph": 6.2,
+      "min_temp_c": 19.0,
+      "max_temp_c": 35.0,
+      "optimal_temp_c": 26.0,
+      "water_requirement_mm": 1200.0,
+      "drought_tolerance": "Low",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 100.0,
+      "phosphorus_demand_kg_ha": 50.0,
+      "potassium_demand_kg_ha": 100.0,
+      "soil_textures_compatible": [
+        "Red Sandy Loam",
+        "Laterite",
+        "Clay Loam"
+      ],
+      "sunlight_requirement_hours": 6.0
+    },
+    "average_yield_quintals_per_acre": 75.0,
+    "high_tech_yield_quintals_per_acre": 120.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 6500.0,
+    "direct_to_consumer_price_per_quintal_inr": 12000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 65000.0,
+    "special_suitability_tags": [
+      "Partial Shade Tolerant (Intercrop in Orchards)",
+      "Heavy Organic Matter Feeder"
+    ],
+    "agronomy_notes": "Needs raised beds with heavy mulching (green leaves 10-12 tons/ha) to preserve moisture and suppress weeds. Treat seed rhizomes with Trichoderma."
+  },
+  {
+    "crop_id": "VEG-TURMERIC-18",
+    "common_name": "Turmeric",
+    "hindi_name": "हल्दी (Haldi)",
+    "scientific_name": "Curcuma longa",
+    "category": "Spice & Condiment",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)"
+    ],
+    "growth_duration_days": 250,
+    "requirements": {
+      "min_ph": 5.5,
+      "max_ph": 7.5,
+      "optimal_ph": 6.5,
+      "min_temp_c": 20.0,
+      "max_temp_c": 36.0,
+      "optimal_temp_c": 28.0,
+      "water_requirement_mm": 1000.0,
+      "drought_tolerance": "Moderate",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 120.0,
+      "phosphorus_demand_kg_ha": 60.0,
+      "potassium_demand_kg_ha": 120.0,
+      "soil_textures_compatible": [
+        "Clay Loam",
+        "Red Sandy Loam",
+        "Alluvial"
+      ],
+      "sunlight_requirement_hours": 6.5
+    },
+    "average_yield_quintals_per_acre": 85.0,
+    "high_tech_yield_quintals_per_acre": 130.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 12000.0,
+    "direct_to_consumer_price_per_quintal_inr": 24000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 50000.0,
+    "special_suitability_tags": [
+      "High Curcumin Value Addition",
+      "Zero Storage Spoilage When Dried",
+      "Drip System Ideal"
+    ],
+    "agronomy_notes": "Pratibha and Salem varieties have >5% curcumin content. Curing and polishing adds 40% margin over raw farm-gate sale."
+  },
+  {
+    "crop_id": "PROTECTED-CAPSICUM-19",
+    "common_name": "Polyhouse Bell Pepper (Capsicum: Red/Yellow/Green)",
+    "hindi_name": "पॉलीहाउस रंगीन शिमला मिर्च (Polyhouse Capsicum)",
+    "scientific_name": "Capsicum annuum var. grossum",
+    "category": "Protected Cultivation (Polyhouse/Hydroponics)",
+    "seasons": [
+      "Perennial / Year-Round"
+    ],
+    "growth_duration_days": 270,
+    "requirements": {
+      "min_ph": 6.0,
+      "max_ph": 7.2,
+      "optimal_ph": 6.5,
+      "min_temp_c": 16.0,
+      "max_temp_c": 30.0,
+      "optimal_temp_c": 22.0,
+      "water_requirement_mm": 600.0,
+      "drought_tolerance": "Controlled",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 200.0,
+      "phosphorus_demand_kg_ha": 100.0,
+      "potassium_demand_kg_ha": 220.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Clay Loam"
+      ],
+      "sunlight_requirement_hours": 7.0
+    },
+    "average_yield_quintals_per_acre": 350.0,
+    "high_tech_yield_quintals_per_acre": 550.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 4800.0,
+    "direct_to_consumer_price_per_quintal_inr": 9000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 180000.0,
+    "special_suitability_tags": [
+      "50% NHM Polyhouse Subsidy Eligible",
+      "Supermarket Direct Supply",
+      "10x Open Field Yield"
+    ],
+    "agronomy_notes": "Color capsicum (Bachata yellow, Bomby red) requires trellising to two-stem training system. Drip fertigation daily with automated foggers for humidity (65%)."
+  },
+  {
+    "crop_id": "MUSHROOM-OYSTER-20",
+    "common_name": "Oyster & Button Mushroom (Indoor Unit)",
+    "hindi_name": "मशरूम उत्पादन (Dhingri / Button Mushroom)",
+    "scientific_name": "Pleurotus ostreatus / Agaricus bisporus",
+    "category": "Fungi / Mushroom Cultivation",
+    "seasons": [
+      "Perennial / Year-Round"
+    ],
+    "growth_duration_days": 45,
+    "requirements": {
+      "min_ph": 6.5,
+      "max_ph": 7.5,
+      "optimal_ph": 7.0,
+      "min_temp_c": 18.0,
+      "max_temp_c": 28.0,
+      "optimal_temp_c": 22.0,
+      "water_requirement_mm": 80.0,
+      "drought_tolerance": "High (Indoor)",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 0.0,
+      "phosphorus_demand_kg_ha": 0.0,
+      "potassium_demand_kg_ha": 0.0,
+      "soil_textures_compatible": [
+        "Alluvial",
+        "Clay Loam",
+        "Sandy Loam",
+        "Red Sandy Loam",
+        "Black Cotton (Vertisol)"
+      ],
+      "sunlight_requirement_hours": 2.0
+    },
+    "average_yield_quintals_per_acre": 120.0,
+    "high_tech_yield_quintals_per_acre": 200.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 14000.0,
+    "direct_to_consumer_price_per_quintal_inr": 25000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 60000.0,
+    "special_suitability_tags": [
+      "Zero Land Needed (Vertical Racks)",
+      "Uses Paddy Straw Residue",
+      "40% NHM Subsidy on Shed"
+    ],
+    "agronomy_notes": "Converts agricultural waste (paddy straw, wheat straw) into high-protein superfood. Cycle repeats every 35-45 days. Solves stubble burning profitably."
+  },
+  {
+    "crop_id": "MEDICINAL-ASHWAGANDHA-21",
+    "common_name": "Ashwagandha (Indian Ginseng)",
+    "hindi_name": "अश्वगंधा (Ashwagandha)",
+    "scientific_name": "Withania somnifera",
+    "category": "Medicinal & Aromatic Plant (MAP)",
+    "seasons": [
+      "Kharif (Monsoon: June - Oct)",
+      "Rabi (Winter: Nov - April)"
+    ],
+    "growth_duration_days": 160,
+    "requirements": {
+      "min_ph": 6.5,
+      "max_ph": 8.5,
+      "optimal_ph": 7.5,
+      "min_temp_c": 15.0,
+      "max_temp_c": 38.0,
+      "optimal_temp_c": 26.0,
+      "water_requirement_mm": 300.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 40.0,
+      "phosphorus_demand_kg_ha": 40.0,
+      "potassium_demand_kg_ha": 20.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Red Sandy Loam",
+        "Alluvial",
+        "Desert Sandy"
+      ],
+      "sunlight_requirement_hours": 8.0
+    },
+    "average_yield_quintals_per_acre": 5.0,
+    "high_tech_yield_quintals_per_acre": 8.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 28000.0,
+    "direct_to_consumer_price_per_quintal_inr": 45000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 18000.0,
+    "special_suitability_tags": [
+      "Ayush Ministry Buyback Contracts",
+      "Thrives in Marginal / Saline Soil",
+      "Zero Cattle/Nilgai Damage"
+    ],
+    "agronomy_notes": "Stray animals (cattle, Nilgai, wild boars) do NOT eat Ashwagandha due to bitter withanolides. High demand from Patanjali, Dabur, and Himalaya."
+  },
+  {
+    "crop_id": "FRUIT-DRAGON-FRUIT-22",
+    "common_name": "Dragon Fruit (Kamalam)",
+    "hindi_name": "कमलम / ड्रैगन फ्रूट (Kamalam)",
+    "scientific_name": "Selenicereus undatus",
+    "category": "Fruit / Horticulture",
+    "seasons": [
+      "Perennial / Year-Round"
+    ],
+    "growth_duration_days": 365,
+    "requirements": {
+      "min_ph": 5.8,
+      "max_ph": 7.8,
+      "optimal_ph": 6.6,
+      "min_temp_c": 16.0,
+      "max_temp_c": 40.0,
+      "optimal_temp_c": 28.0,
+      "water_requirement_mm": 400.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 80.0,
+      "phosphorus_demand_kg_ha": 60.0,
+      "potassium_demand_kg_ha": 100.0,
+      "soil_textures_compatible": [
+        "Sandy Loam",
+        "Red Sandy Loam",
+        "Laterite",
+        "Alluvial"
+      ],
+      "sunlight_requirement_hours": 8.0
+    },
+    "average_yield_quintals_per_acre": 40.0,
+    "high_tech_yield_quintals_per_acre": 70.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 11000.0,
+    "direct_to_consumer_price_per_quintal_inr": 20000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 120000.0,
+    "special_suitability_tags": [
+      "20-Year Perennial Cashflow",
+      "Cactus Family Low Water",
+      "MIDH 40% Trellis Subsidy"
+    ],
+    "agronomy_notes": "Cement poles with rubber tire trellis rings support 4 vines per pole (500 poles/acre). Harvest begins in month 14 and continues for two decades."
+  },
+  {
+    "crop_id": "AGROFORESTRY-SANDALWOOD-23",
+    "common_name": "White Sandalwood (Chandan) + Host",
+    "hindi_name": "सफेद चंदन (Safed Chandan)",
+    "scientific_name": "Santalum album",
+    "category": "Agroforestry / Timber",
+    "seasons": [
+      "Perennial / Year-Round"
+    ],
+    "growth_duration_days": 4380,
+    "requirements": {
+      "min_ph": 6.5,
+      "max_ph": 8.0,
+      "optimal_ph": 7.2,
+      "min_temp_c": 12.0,
+      "max_temp_c": 42.0,
+      "optimal_temp_c": 28.0,
+      "water_requirement_mm": 500.0,
+      "drought_tolerance": "High",
+      "waterlogging_tolerance": "Sensitive",
+      "nitrogen_demand_kg_ha": 30.0,
+      "phosphorus_demand_kg_ha": 20.0,
+      "potassium_demand_kg_ha": 20.0,
+      "soil_textures_compatible": [
+        "Red Sandy Loam",
+        "Clay Loam",
+        "Laterite"
+      ],
+      "sunlight_requirement_hours": 7.5
+    },
+    "average_yield_quintals_per_acre": 50.0,
+    "high_tech_yield_quintals_per_acre": 80.0,
+    "msp_price_per_quintal_inr": null,
+    "market_modal_price_per_quintal_inr": 750000.0,
+    "direct_to_consumer_price_per_quintal_inr": 1200000.0,
+    "estimated_cost_of_cultivation_per_acre_inr": 45000.0,
+    "special_suitability_tags": [
+      "Multi-Crore Wealth Creation",
+      "Semi-Parasitic Requires Host Plant (Casuarina / Pigeon Pea)"
+    ],
+    "agronomy_notes": "Partial root parasite: must be planted alongside host plants (Sesbania, Casuarina, Tur). Legal in India under revised state forest laws with transit permits."
+  }
+]

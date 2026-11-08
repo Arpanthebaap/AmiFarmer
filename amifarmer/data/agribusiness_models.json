@@ -1,0 +1,165 @@
+[
+  {
+    "model_id": "BIZ-DAL-MILL-01",
+    "business_title": "Mini Dal Mill & Pulse Processing Enterprise",
+    "target_sector": "Primary Food Processing",
+    "minimum_land_required_acres": 0.25,
+    "total_capital_expenditure_capex_inr": 650000.0,
+    "annual_operating_expenditure_opex_inr": 1800000.0,
+    "projected_annual_gross_revenue_inr": 2450000.0,
+    "projected_annual_net_profit_inr": 650000.0,
+    "payback_period_years": 1.2,
+    "internal_rate_of_return_irr_pct": 38.5,
+    "applicable_subsidies": [
+      "PM Formalization of Micro Food Processing Enterprises (PM-FME)",
+      "AIF (3% Interest Subvention)"
+    ],
+    "subsidy_amount_expected_inr": 227500.0,
+    "net_farmer_investment_inr": 422500.0,
+    "key_machinery_required": [
+      "Dehusker & Dal Splitter (200 kg/hr capacity)",
+      "Vibro Grader and Cleaner",
+      "Polisher with emery stone rolls",
+      "Nitrogen flushing continuous band sealer packaging machine"
+    ],
+    "licenses_required": [
+      "FSSAI Basic / State License",
+      "Udyam MSME Registration",
+      "GST Registration",
+      "Local Trade License"
+    ],
+    "target_buyer_demographics": [
+      "Local Kirana wholesale distributors",
+      "Urban direct-to-consumer grocery subscription brands",
+      "State civil supplies tenders"
+    ],
+    "step_by_step_setup_guide": [
+      "Procure raw pigeon pea (arhar), chickpea (chana), or moong directly from local farmers at mandi rate + 5% incentive",
+      "Install a 200 kg/hour semi-automatic mini dal mill in a 1,000 sq ft shed",
+      "Process into unpolished, high-protein dal retaining nutrient-rich aleurone layer",
+      "Package into branded 1kg/5kg biodegradable pouches with FSSAI QR code",
+      "Sell directly at ₹130-150/kg compared to raw unhusked sale price of ₹75/kg, pocketing processing margin"
+    ]
+  },
+  {
+    "model_id": "BIZ-COLD-PRESSED-OIL-02",
+    "business_title": "Cold-Pressed Wood Pressed (Kachi Ghani) Oil Unit",
+    "target_sector": "High-Value Edible Oils & Functional Foods",
+    "minimum_land_required_acres": 0.2,
+    "total_capital_expenditure_capex_inr": 550000.0,
+    "annual_operating_expenditure_opex_inr": 1400000.0,
+    "projected_annual_gross_revenue_inr": 2100000.0,
+    "projected_annual_net_profit_inr": 700000.0,
+    "payback_period_years": 1.1,
+    "internal_rate_of_return_irr_pct": 44.0,
+    "applicable_subsidies": [
+      "PM-FME 35% Credit Linked Capital Subsidy",
+      "PMEGP (Prime Minister Employment Generation Programme)"
+    ],
+    "subsidy_amount_expected_inr": 192500.0,
+    "net_farmer_investment_inr": 357500.0,
+    "key_machinery_required": [
+      "Wooden Ghani (Marachekku) automated press (2 units)",
+      "Seed cleaner and destoner",
+      "Filter press / cotton fabric settling tank",
+      "Glass bottle filling and capping machine"
+    ],
+    "licenses_required": [
+      "FSSAI Food License",
+      "Udyam Aadhar",
+      "GST Registration"
+    ],
+    "target_buyer_demographics": [
+      "Health-conscious urban consumers",
+      "Organic supermarkets",
+      "Direct WhatsApp e-commerce community"
+    ],
+    "step_by_step_setup_guide": [
+      "Source high-grade farm-grown Mustard, Groundnut, or Sesame seeds",
+      "Operate slow-speed (<14 RPM) wooden cold presses to ensure temperature remains below 45°C, preserving antioxidants and tocopherols",
+      "Bottle pure golden oil without chemical refining, bleaching, or deodorizing",
+      "Repackage oil cake (Khali) and sell as premium high-protein cattle feed at ₹28-35/kg",
+      "Retail cold-pressed mustard oil at ₹280-350/L and groundnut oil at ₹360-450/L"
+    ]
+  },
+  {
+    "model_id": "BIZ-VERMICOMPOST-03",
+    "business_title": "Commercial Vermicomposting & Bio-Enriched Organic Fertilizer Plant",
+    "target_sector": "Bio-Fertilizer & Circular Economy",
+    "minimum_land_required_acres": 0.5,
+    "total_capital_expenditure_capex_inr": 280000.0,
+    "annual_operating_expenditure_opex_inr": 350000.0,
+    "projected_annual_gross_revenue_inr": 850000.0,
+    "projected_annual_net_profit_inr": 500000.0,
+    "payback_period_years": 0.7,
+    "internal_rate_of_return_irr_pct": 65.0,
+    "applicable_subsidies": [
+      "PKVY Cluster Fund",
+      "RKVY-RAFTAAR Agripreneurship Grant"
+    ],
+    "subsidy_amount_expected_inr": 100000.0,
+    "net_farmer_investment_inr": 180000.0,
+    "key_machinery_required": [
+      "HDPE vermi-beds with aeration windows (30 beds of 12x4x2 ft)",
+      "Rotary compost screening trommel with 3mm mesh",
+      "Moisture meter and electronic weighing scale",
+      "Bag stitching machine"
+    ],
+    "licenses_required": [
+      "Fertilizer Control Order (FCO) Registration / State Dept of Agriculture License",
+      "Udyam MSME"
+    ],
+    "target_buyer_demographics": [
+      "Organic farmers",
+      "Polyhouse growers",
+      "Urban landscape nurseries",
+      "Home gardeners"
+    ],
+    "step_by_step_setup_guide": [
+      "Collect cow dung and crop farm residue; let pre-decompose for 15 days",
+      "Inoculate with Eisenia fetida (red wigglers) earthworms at 2 kg per bed",
+      "Maintain 65-70% moisture and shady temperature for 50-60 days",
+      "Harvest granular black vermicast, screen through trommel, and enrich with Trichoderma and Mycorrhiza",
+      "Bag in 5kg, 25kg, and 50kg bags and sell at ₹8-12/kg wholesale and ₹25/kg retail"
+    ]
+  },
+  {
+    "model_id": "BIZ-POLYHOUSE-04",
+    "business_title": "Naturally Ventilated Polyhouse Horticulture Unit (1,000 sq meters)",
+    "target_sector": "Protected Agriculture",
+    "minimum_land_required_acres": 0.3,
+    "total_capital_expenditure_capex_inr": 1150000.0,
+    "annual_operating_expenditure_opex_inr": 320000.0,
+    "projected_annual_gross_revenue_inr": 850000.0,
+    "projected_annual_net_profit_inr": 530000.0,
+    "payback_period_years": 2.2,
+    "internal_rate_of_return_irr_pct": 32.0,
+    "applicable_subsidies": [
+      "Mission for Integrated Development of Horticulture (MIDH - 50% Subsidy)",
+      "AIF 3% Interest Subvention"
+    ],
+    "subsidy_amount_expected_inr": 525000.0,
+    "net_farmer_investment_inr": 625000.0,
+    "key_machinery_required": [
+      "GI pipe tubular structure with 200-micron UV-stabilized polythene sheet",
+      "Micro-drip irrigation network with inline PC drippers and Venturi",
+      "Overhead misting / fogger system with automated timer",
+      "Shade net screen (50% green/black)"
+    ],
+    "licenses_required": [
+      "Land Revenue Certificate",
+      "Horticulture Department Empanelled Structural Cert"
+    ],
+    "target_buyer_demographics": [
+      "Quick commerce apps (Blinkit, Zepto, Swiggy Instamart)",
+      "Wholesale hotels, restaurants & caterers (HORECA)",
+      "Exporters"
+    ],
+    "step_by_step_setup_guide": [
+      "Construct 1000 sqm naturally ventilated polyhouse structure with empanelled agency under MIDH subsidy",
+      "Cultivate parthenocarpic seedless English cucumber or yellow/red capsicum",
+      "Achieve 3 crop cycles per year yielding 12-15 tons of premium grade produce",
+      "Sell directly to premium retail buyers at fixed contractual rates of ₹35-50/kg, eliminating mandi fluctuations"
+    ]
+  }
+]

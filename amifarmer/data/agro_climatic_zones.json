@@ -1,0 +1,511 @@
+[
+  {
+    "zone_id": 1,
+    "name": "Western Himalayan Region",
+    "states": [
+      "Jammu and Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Ladakh"
+    ],
+    "key_districts": [
+      "Shimla",
+      "Kullu",
+      "Mandi",
+      "Kangra",
+      "Dehradun",
+      "Nainital",
+      "Srinagar",
+      "Anantnag"
+    ],
+    "soil_type_predominant": "Brown Forest / Mountain Loam",
+    "annual_rainfall_mm": 1150.0,
+    "groundwater_depth_mbgl": 8.5,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Apple",
+      "Walnut",
+      "Potato",
+      "Maize",
+      "Off-season Vegetables",
+      "Saffron",
+      "Rajma"
+    ],
+    "challenges": [
+      "Steep slope erosion",
+      "Frost",
+      "Terraced farming logistics"
+    ]
+  },
+  {
+    "zone_id": 2,
+    "name": "Eastern Himalayan Region",
+    "states": [
+      "Assam",
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Meghalaya",
+      "Nagaland",
+      "Manipur",
+      "Mizoram",
+      "Tripura"
+    ],
+    "key_districts": [
+      "Kamrup",
+      "Jorhat",
+      "East Sikkim",
+      "East Khasi Hills",
+      "West Tripura"
+    ],
+    "soil_type_predominant": "Red Sandy Loam / Acidic Alluvial",
+    "annual_rainfall_mm": 2200.0,
+    "groundwater_depth_mbgl": 4.5,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Tea",
+      "Rice",
+      "Ginger",
+      "Turmeric",
+      "Black Pepper",
+      "Large Cardamom",
+      "Pineapple",
+      "Bamboo"
+    ],
+    "challenges": [
+      "Soil acidity (low pH)",
+      "Flash floods",
+      "Shifting cultivation erosion"
+    ]
+  },
+  {
+    "zone_id": 3,
+    "name": "Lower Gangetic Plain Region",
+    "states": [
+      "West Bengal"
+    ],
+    "key_districts": [
+      "Hooghly",
+      "Burdwan (Purba Bardhaman)",
+      "Nadia",
+      "Murshidabad",
+      "North 24 Parganas"
+    ],
+    "soil_type_predominant": "Alluvial",
+    "annual_rainfall_mm": 1550.0,
+    "groundwater_depth_mbgl": 6.0,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Rice (Aman/Boro)",
+      "Jute",
+      "Potato",
+      "Mustard",
+      "Vegetables",
+      "Fish Farming"
+    ],
+    "challenges": [
+      "Seasonal inundation",
+      "Arsenic in deeper aquifers",
+      "Humid fungal pressure"
+    ]
+  },
+  {
+    "zone_id": 4,
+    "name": "Middle Gangetic Plain Region",
+    "states": [
+      "Uttar Pradesh (East)",
+      "Bihar"
+    ],
+    "key_districts": [
+      "Varanasi",
+      "Gorakhpur",
+      "Prayagraj",
+      "Patna",
+      "Muzaffarpur",
+      "Gaya",
+      "Samastipur"
+    ],
+    "soil_type_predominant": "Alluvial",
+    "annual_rainfall_mm": 1100.0,
+    "groundwater_depth_mbgl": 9.5,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Maize",
+      "Pigeon Pea (Arhar)",
+      "Litchi",
+      "Vegetables"
+    ],
+    "challenges": [
+      "Flood in north plains",
+      "Sub-optimal mechanization",
+      "Fragmented land holdings"
+    ]
+  },
+  {
+    "zone_id": 5,
+    "name": "Upper Gangetic Plain Region",
+    "states": [
+      "Uttar Pradesh (Central & West)"
+    ],
+    "key_districts": [
+      "Meerut",
+      "Aligarh",
+      "Bareilly",
+      "Moradabad",
+      "Agra",
+      "Mathura",
+      "Kanpur"
+    ],
+    "soil_type_predominant": "Alluvial",
+    "annual_rainfall_mm": 850.0,
+    "groundwater_depth_mbgl": 14.0,
+    "groundwater_status": "Semi-Critical (70-90% extraction)",
+    "primary_crops": [
+      "Sugarcane",
+      "Wheat",
+      "Rice",
+      "Mustard",
+      "Potato",
+      "Mentha / Mint"
+    ],
+    "challenges": [
+      "High water-intensity sugarcane depletion",
+      "Micronutrient exhaustion (Zn, S)"
+    ]
+  },
+  {
+    "zone_id": 6,
+    "name": "Trans-Gangetic Plain Region",
+    "states": [
+      "Punjab",
+      "Haryana",
+      "Delhi",
+      "Rajasthan (Ganganagar)"
+    ],
+    "key_districts": [
+      "Ludhiana",
+      "Amritsar",
+      "Karnal",
+      "Kurukshetra",
+      "Sirsa",
+      "Sri Ganganagar"
+    ],
+    "soil_type_predominant": "Alluvial",
+    "annual_rainfall_mm": 550.0,
+    "groundwater_depth_mbgl": 28.0,
+    "groundwater_status": "Over-Exploited (>100% extraction)",
+    "primary_crops": [
+      "Wheat",
+      "Basmati Rice",
+      "Cotton",
+      "Mustard",
+      "Kinnu (Citrus)",
+      "Maize"
+    ],
+    "challenges": [
+      "Severe groundwater depletion",
+      "Paddy straw burning residue",
+      "Soil compaction"
+    ]
+  },
+  {
+    "zone_id": 7,
+    "name": "Eastern Plateau and Hills",
+    "states": [
+      "Jharkhand",
+      "Odisha (Inland)",
+      "Chhattisgarh"
+    ],
+    "key_districts": [
+      "Ranchi",
+      "Raipur",
+      "Bilaspur",
+      "Sambalpur",
+      "Hazaribagh",
+      "Bastar"
+    ],
+    "soil_type_predominant": "Red Sandy Loam",
+    "annual_rainfall_mm": 1300.0,
+    "groundwater_depth_mbgl": 11.0,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Rice",
+      "Millets (Ragi)",
+      "Pulses (Arhar, Gram)",
+      "Oilseeds (Niger, Mustard)",
+      "Lac",
+      "Tasar Silk"
+    ],
+    "challenges": [
+      "Undulating plateau runoff",
+      "Low irrigation coverage",
+      "Acidic red soils"
+    ]
+  },
+  {
+    "zone_id": 8,
+    "name": "Central Plateau and Hills",
+    "states": [
+      "Madhya Pradesh",
+      "Rajasthan (Southeast)"
+    ],
+    "key_districts": [
+      "Indore",
+      "Bhopal",
+      "Ujjain",
+      "Kota",
+      "Jabalpur",
+      "Sagar",
+      "Gwalior"
+    ],
+    "soil_type_predominant": "Black Cotton (Vertisol)",
+    "annual_rainfall_mm": 900.0,
+    "groundwater_depth_mbgl": 18.0,
+    "groundwater_status": "Semi-Critical (70-90% extraction)",
+    "primary_crops": [
+      "Soybean",
+      "Wheat (Sharbati)",
+      "Chickpea (Gram)",
+      "Garlic",
+      "Coriander",
+      "Mustard"
+    ],
+    "challenges": [
+      "Hard basaltic rock aquifers",
+      "Moisture stress during dry spells"
+    ]
+  },
+  {
+    "zone_id": 9,
+    "name": "Western Plateau and Hills",
+    "states": [
+      "Maharashtra"
+    ],
+    "key_districts": [
+      "Nashik",
+      "Pune",
+      "Ahmednagar",
+      "Solapur",
+      "Nagpur",
+      "Amravati",
+      "Aurangabad (Chhatrapati Sambhajinagar)",
+      "Jalgaon"
+    ],
+    "soil_type_predominant": "Black Cotton (Vertisol)",
+    "annual_rainfall_mm": 700.0,
+    "groundwater_depth_mbgl": 16.5,
+    "groundwater_status": "Semi-Critical (70-90% extraction)",
+    "primary_crops": [
+      "Cotton",
+      "Soybean",
+      "Onion",
+      "Grapes",
+      "Pomegranate",
+      "Sugarcane",
+      "Banana",
+      "Jowar"
+    ],
+    "challenges": [
+      "Rain-shadow drought cycles",
+      "Fluctuating onion/grape market rates"
+    ]
+  },
+  {
+    "zone_id": 10,
+    "name": "Southern Plateau and Hills",
+    "states": [
+      "Telangana",
+      "Andhra Pradesh (Rayalaseema)",
+      "Karnataka (Interior)",
+      "Tamil Nadu (Interior)"
+    ],
+    "key_districts": [
+      "Warangal",
+      "Anantapur",
+      "Kurnool",
+      "Belagavi",
+      "Tumakuru",
+      "Dharwad",
+      "Coimbatore"
+    ],
+    "soil_type_predominant": "Red Sandy Loam",
+    "annual_rainfall_mm": 750.0,
+    "groundwater_depth_mbgl": 22.0,
+    "groundwater_status": "Critical (90-100% extraction)",
+    "primary_crops": [
+      "Cotton",
+      "Groundnut",
+      "Chilli",
+      "Maize",
+      "Ragi",
+      "Turmeric",
+      "Sunflower"
+    ],
+    "challenges": [
+      "Recurring semi-arid droughts",
+      "Deep fracture borewells"
+    ]
+  },
+  {
+    "zone_id": 11,
+    "name": "East Coast Plains and Hills",
+    "states": [
+      "Odisha (Coast)",
+      "Andhra Pradesh (Coast)",
+      "Tamil Nadu (Coast)"
+    ],
+    "key_districts": [
+      "Guntur",
+      "Krishna",
+      "West Godavari",
+      "Puri",
+      "Thanjavur",
+      "Cuddalore"
+    ],
+    "soil_type_predominant": "Alluvial / Coastal Deltaic",
+    "annual_rainfall_mm": 1250.0,
+    "groundwater_depth_mbgl": 5.5,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Paddy",
+      "Black Gram",
+      "Chilli",
+      "Tobacco",
+      "Coconut",
+      "Prawn Aquaculture"
+    ],
+    "challenges": [
+      "Cyclones and storm surges",
+      "Coastal saline water ingress"
+    ]
+  },
+  {
+    "zone_id": 12,
+    "name": "West Coast Plains and Ghats",
+    "states": [
+      "Kerala",
+      "Karnataka (Coastal)",
+      "Goa",
+      "Maharashtra (Konkan)"
+    ],
+    "key_districts": [
+      "Ernakulam",
+      "Wayanad",
+      "Dakshina Kannada",
+      "Udupi",
+      "Ratnagiri",
+      "North Goa"
+    ],
+    "soil_type_predominant": "Laterite",
+    "annual_rainfall_mm": 3100.0,
+    "groundwater_depth_mbgl": 5.0,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Rubber",
+      "Black Pepper",
+      "Cardamom",
+      "Coconut",
+      "Arecanut",
+      "Alphonso Mango",
+      "Cashew"
+    ],
+    "challenges": [
+      "Nutrient leaching under high rainfall",
+      "Steep terrain"
+    ]
+  },
+  {
+    "zone_id": 13,
+    "name": "Gujarat Plains and Hills",
+    "states": [
+      "Gujarat"
+    ],
+    "key_districts": [
+      "Rajkot",
+      "Junagadh",
+      "Mehsana",
+      "Anand",
+      "Surat",
+      "Vadodara",
+      "Bhavnagar"
+    ],
+    "soil_type_predominant": "Clay Loam / Medium Black",
+    "annual_rainfall_mm": 720.0,
+    "groundwater_depth_mbgl": 24.0,
+    "groundwater_status": "Semi-Critical (70-90% extraction)",
+    "primary_crops": [
+      "Cotton",
+      "Groundnut",
+      "Cumin (Jeera)",
+      "Castor",
+      "Fennel",
+      "Banana",
+      "Dairy Farming"
+    ],
+    "challenges": [
+      "Salinity in coastal Saurashtra",
+      "High evaporation"
+    ]
+  },
+  {
+    "zone_id": 14,
+    "name": "Western Dry Region",
+    "states": [
+      "Rajasthan (West)"
+    ],
+    "key_districts": [
+      "Jodhpur",
+      "Bikaner",
+      "Jaisalmer",
+      "Barmer",
+      "Nagaur"
+    ],
+    "soil_type_predominant": "Desert Sandy",
+    "annual_rainfall_mm": 310.0,
+    "groundwater_depth_mbgl": 45.0,
+    "groundwater_status": "Over-Exploited (>100% extraction)",
+    "primary_crops": [
+      "Pearl Millet (Bajra)",
+      "Guar",
+      "Moth Bean",
+      "Isabgol (Psyllium)",
+      "Cumin",
+      "Date Palm"
+    ],
+    "challenges": [
+      "Extreme thermal stress (>45°C)",
+      "Deep saline water table",
+      "Wind erosion"
+    ]
+  },
+  {
+    "zone_id": 15,
+    "name": "Islands Region",
+    "states": [
+      "Andaman and Nicobar",
+      "Lakshadweep"
+    ],
+    "key_districts": [
+      "South Andaman",
+      "Nicobar",
+      "Kavaratti"
+    ],
+    "soil_type_predominant": "Red Loam / Coral Sand",
+    "annual_rainfall_mm": 3000.0,
+    "groundwater_depth_mbgl": 3.0,
+    "groundwater_status": "Safe (<70% extraction)",
+    "primary_crops": [
+      "Coconut",
+      "Arecanut",
+      "Spices",
+      "Cassava",
+      "Tropical Fruits"
+    ],
+    "challenges": [
+      "High freight transport costs",
+      "Fragile coral lens ecology"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "depth_guidelines": {
+    "0-5 mbgl": {
+      "status": "Shallow Water Table",
+      "drainage_risk": "Moderate waterlogging risk during monsoon",
+      "solar_pump_spec": "3 HP surface pump or 3 HP shallow submersible"
+    },
+    "5-15 mbgl": {
+      "status": "Safe & Optimal",
+      "drainage_risk": "Low risk; excellent for open well / shallow borewell",
+      "solar_pump_spec": "3-5 HP submersible solar pump"
+    },
+    "15-30 mbgl": {
+      "status": "Moderately Deep",
+      "drainage_risk": "No waterlogging; requires tubewell",
+      "solar_pump_spec": "5 HP AC submersible pump"
+    },
+    "30-60 mbgl": {
+      "status": "Critical Deep Table",
+      "drainage_risk": "Severe depletion risk; drip irrigation mandatory",
+      "solar_pump_spec": "7.5 HP high-head multi-stage submersible pump"
+    },
+    ">60 mbgl": {
+      "status": "Over-Exploited / Arid Aquifer",
+      "drainage_risk": "Prohibitive pumping cost; micro-catchment water harvesting mandatory",
+      "solar_pump_spec": "7.5-10 HP solar pump with high-efficiency motor"
+    }
+  },
+  "aquifer_typologies": {
+    "Alluvial Unconfined": {
+      "recharge_rate": "High",
+      "specific_yield_pct": 12.0,
+      "water_quality": "Generally fresh, check for fluoride/arsenic in localized pockets"
+    },
+    "Basaltic Deccan Trap (Hard Rock)": {
+      "recharge_rate": "Moderate-Low",
+      "specific_yield_pct": 3.0,
+      "water_quality": "Good, depends on fracture connectivity"
+    },
+    "Crystalline Granite / Gneiss": {
+      "recharge_rate": "Low",
+      "specific_yield_pct": 2.5,
+      "water_quality": "High fluoride in deep borewells"
+    },
+    "Coastal Sand Dune Aquifer": {
+      "recharge_rate": "Very High",
+      "specific_yield_pct": 20.0,
+      "water_quality": "Risk of seawater intrusion if over-pumped"
+    }
+  }
+}

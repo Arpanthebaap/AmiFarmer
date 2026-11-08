@@ -1,0 +1,205 @@
+[
+  {
+    "scheme_id": "PM-KISAN",
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "official_acronym": "PM-KISAN",
+    "administering_ministry": "Ministry of Agriculture and Farmers Welfare",
+    "level": "Central Government (GoI)",
+    "category": "Direct Income Support",
+    "max_subsidy_amount_inr": 6000.0,
+    "subsidy_percentage": 100.0,
+    "eligibility_criteria": [
+      "All landholding farmer families with cultivable land in their names",
+      "Aadhaar-seeded active bank account",
+      "Land records updated in State Revenue Records",
+      "Not an institutional landholder or high-income tax assessee"
+    ],
+    "documents_required": [
+      "Aadhaar Card",
+      "Land ownership record (Khatoni / 7/12 extract / Patta)",
+      "Bank passbook copy with IFSC",
+      "Active mobile number linked to Aadhaar"
+    ],
+    "application_portal_url": "https://pmkisan.gov.in",
+    "how_to_apply_steps": [
+      "Visit pmkisan.gov.in and click on 'New Farmer Registration'",
+      "Enter Aadhaar Number and select State",
+      "Fill in Land Identification Details (Survey/Khata Number) and Bank Account",
+      "Submit biometric e-KYC or OTP-based verification via mobile"
+    ],
+    "special_benefits_for_sc_st_women": "Priority processing and automatic DBT linkage."
+  },
+  {
+    "scheme_id": "PMKSY-PER-DROP",
+    "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY - Per Drop More Crop)",
+    "official_acronym": "PMKSY-PDMC",
+    "administering_ministry": "Ministry of Agriculture & Farmers Welfare / Jal Shakti",
+    "level": "Centrally Sponsored / State Shared",
+    "category": "Micro-Irrigation & Water Infrastructure",
+    "max_subsidy_amount_inr": 75000.0,
+    "subsidy_percentage": 55.0,
+    "eligibility_criteria": [
+      "Farmer must own agricultural land with an assured water source (borewell, well, canal)",
+      "Applicable for installing Drip Irrigation or Micro-Sprinkler Systems",
+      "Maximum assistance up to 5 hectares per beneficiary family"
+    ],
+    "documents_required": [
+      "Land title deed / 7/12 / ROR copy",
+      "Water source certificate or electricity bill of pump",
+      "Soil and water testing report",
+      "Quotation from empanelled Micro-Irrigation vendor (Jain Irrigation, Netafim, etc.)"
+    ],
+    "application_portal_url": "https://pmksy.gov.in",
+    "how_to_apply_steps": [
+      "Register on state horticulture / agriculture department DBT portal",
+      "Select empanelled vendor for site survey and CAD layout design",
+      "Vendor submits technical estimation; department issues Administrative Approval",
+      "System is installed, GPS geotagged, and field-inspected by Assistant Horticulture Officer (AHO)",
+      "Subsidy is credited directly to vendor or farmer's bank account"
+    ],
+    "special_benefits_for_sc_st_women": "Additional 10-15% top-up in many states (e.g., Gujarat, AP, Tamil Nadu provide up to 70-90% for SC/ST smallholders)."
+  },
+  {
+    "scheme_id": "PM-KUSUM-SOLAR",
+    "scheme_name": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM Component-B)",
+    "official_acronym": "PM-KUSUM",
+    "administering_ministry": "Ministry of New and Renewable Energy (MNRE)",
+    "level": "Centrally Sponsored / State Shared",
+    "category": "Solar Pumps & Green Energy",
+    "max_subsidy_amount_inr": 210000.0,
+    "subsidy_percentage": 60.0,
+    "eligibility_criteria": [
+      "Individual farmers, water user associations, FPOs, and panchayats",
+      "Installing standalone solar agriculture pumps (3 HP to 10 HP DC/AC surface or submersible)",
+      "Land must have available groundwater / surface water without grid connection"
+    ],
+    "documents_required": [
+      "Land revenue records",
+      "Aadhaar card and bank account",
+      "Proof of water source depth (driller receipt or patwari verification)",
+      "Affidavit stating no existing energized electric pump on that land piece"
+    ],
+    "application_portal_url": "https://pmkusum.mnre.gov.in",
+    "how_to_apply_steps": [
+      "Apply on the State Renewable Energy Development Agency portal (e.g., MEDA, UPNEDA, HAREDA, RREC)",
+      "Choose pump capacity based on groundwater depth (3HP for <30m, 5HP for 30-70m, 7.5HP for >70m)",
+      "Pay 10% farmer share online; bank finances 30% if loan opted",
+      "Approved vendor installs solar panels, controller, and pump within 90 days with remote telemetry"
+    ],
+    "special_benefits_for_sc_st_women": "In North-Eastern, Himalayan states and desert regions, Central subsidy is 50%, farmer pays only 10%."
+  },
+  {
+    "scheme_id": "SMAM-MECHANIZATION",
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM / FARMS)",
+    "official_acronym": "SMAM",
+    "administering_ministry": "Ministry of Agriculture & Farmers Welfare",
+    "level": "Central Government (GoI)",
+    "category": "Farm Machinery & Custom Hiring",
+    "max_subsidy_amount_inr": 250000.0,
+    "subsidy_percentage": 50.0,
+    "eligibility_criteria": [
+      "Small, marginal, and large farmers purchasing approved machinery (Tractors, Rotavators, Laser Levelers)",
+      "Rural youth, self-help groups, and FPOs setting up Custom Hiring Centers (CHCs)"
+    ],
+    "documents_required": [
+      "Aadhaar Card",
+      "Land ownership proof",
+      "Caste certificate (for SC/ST concession)",
+      "Dealer invoice / quotation of approved model"
+    ],
+    "application_portal_url": "https://agrimachinery.nic.in",
+    "how_to_apply_steps": [
+      "Login to agrimachinery.nic.in and select 'Farmer Registration'",
+      "Select machinery category (e.g., Rotavator, Power Tiller, Laser Leveler)",
+      "Select authorized manufacturer dealer in your district",
+      "Wait for lottery / token generation from District Agriculture Officer",
+      "Purchase machine with physical inspection & serial verification; subsidy credited via DBT"
+    ],
+    "special_benefits_for_sc_st_women": "Women farmers receive an additional 10% higher financial assistance across all tool categories."
+  },
+  {
+    "scheme_id": "AIF-INFRA-FUND",
+    "scheme_name": "Agriculture Infrastructure Fund (AIF)",
+    "official_acronym": "AIF",
+    "administering_ministry": "Ministry of Agriculture and Farmers Welfare",
+    "level": "Central Government (GoI)",
+    "category": "Post-Harvest Infrastructure & Cold Storage",
+    "max_subsidy_amount_inr": 20000000.0,
+    "subsidy_percentage": 3.0,
+    "eligibility_criteria": [
+      "Farmers, FPOs, Agri-entrepreneurs, Startups, Primary Agricultural Credit Societies (PACS)",
+      "Projects for post-harvest management: Cold storage, sorting/grading, ripening chambers, silos, warehouses"
+    ],
+    "documents_required": [
+      "Detailed Project Report (DPR)",
+      "Bank Loan sanction letter",
+      "Land documents (owned or minimum 10-year lease)",
+      "KYC of promoters / FPO directors",
+      "GST / Udyam registration"
+    ],
+    "application_portal_url": "https://agriinfra.dac.gov.in",
+    "how_to_apply_steps": [
+      "Register on agriinfra.dac.gov.in portal",
+      "Upload bankable DPR outlining CapEx, OpEx, and post-harvest impact",
+      "Select preferred commercial/cooperative lending bank",
+      "Ministry scrutinizes and grants in-principle approval within 60 days",
+      "Bank disburses loan; interest subvention of 3% is automatically adjusted in EMI for 7 years"
+    ],
+    "special_benefits_for_sc_st_women": "Credit guarantee fee covered under CGTMSE for up to ₹2 Crore."
+  },
+  {
+    "scheme_id": "MIDH-HORTICULTURE",
+    "scheme_name": "Mission for Integrated Development of Horticulture (MIDH)",
+    "official_acronym": "MIDH",
+    "administering_ministry": "Ministry of Agriculture & Farmers Welfare",
+    "level": "Centrally Sponsored / State Shared",
+    "category": "Horticulture & Protected Agriculture",
+    "max_subsidy_amount_inr": 1800000.0,
+    "subsidy_percentage": 50.0,
+    "eligibility_criteria": [
+      "Farmers undertaking high-value fruit orchards, polyhouses (naturally ventilated or climate controlled)",
+      "Mushroom cultivation units and spawn labs"
+    ],
+    "documents_required": [
+      "Land ownership records with clear title",
+      "Horticulture plan and cost estimation",
+      "Water availability certificate",
+      "Vendor design specifications adhering to MIDH technical standards"
+    ],
+    "application_portal_url": "https://midh.gov.in",
+    "how_to_apply_steps": [
+      "Apply to District Horticulture Officer (DHO)",
+      "Submit project proposal with structural engineering certs",
+      "Physical inspection and geotagged approval",
+      "Direct subsidy release linked to milestone completion"
+    ],
+    "special_benefits_for_sc_st_women": "55% assistance in hilly and scheduled tribe areas."
+  },
+  {
+    "scheme_id": "PKVY-ORGANIC",
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY - Natural & Organic Farming)",
+    "official_acronym": "PKVY",
+    "administering_ministry": "Ministry of Agriculture and Farmers Welfare",
+    "level": "Central Government (GoI)",
+    "category": "Organic & Natural Farming",
+    "max_subsidy_amount_inr": 50000.0,
+    "subsidy_percentage": 100.0,
+    "eligibility_criteria": [
+      "Cluster of minimum 20 farmers with 20 hectares contiguous land",
+      "Commitment to convert to organic farming under PGS-India certification"
+    ],
+    "documents_required": [
+      "Cluster farmer roster with Aadhaar",
+      "Land records of each member",
+      "Resolution to practice chemical-free agriculture"
+    ],
+    "application_portal_url": "https://pgsindia-ncof.gov.in",
+    "how_to_apply_steps": [
+      "Form farmer cluster through local Regional Council / KVK / Agriculture Officer",
+      "Register cluster on PGS-India portal",
+      "Receive ₹31,000/ha for organic inputs (liquid bio-fertilizers, vermicompost, neem cake)",
+      "Receive ₹8,800/ha for value addition, packaging, and marketing support"
+    ],
+    "special_benefits_for_sc_st_women": "Free PGS-India organic certification and QR-code traceable branding."
+  }
+]

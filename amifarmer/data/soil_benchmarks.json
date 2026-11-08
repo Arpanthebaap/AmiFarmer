@@ -1,0 +1,101 @@
+{
+  "Alluvial": {
+    "description": "Formed by river silt deposits; fertile, loamy to sandy loam, ideal for cereals, sugarcane, potatoes.",
+    "bulk_density_g_cm3": 1.35,
+    "porosity_pct": 46.0,
+    "field_capacity_pct": 28.0,
+    "wilting_point_pct": 12.0,
+    "available_water_capacity_mm_m": 160.0,
+    "ph_typical": 7.2,
+    "cation_exchange_capacity_meq_100g": 18.0,
+    "recommended_amendments": "Zinc sulphate (25 kg/ha) every 2 years; regular organic manure to maintain active humus."
+  },
+  "Black Cotton (Vertisol)": {
+    "description": "High montmorillonite clay content; deep swelling and shrinking cracks, rich in Ca and Mg, high water retention.",
+    "bulk_density_g_cm3": 1.45,
+    "porosity_pct": 52.0,
+    "field_capacity_pct": 38.0,
+    "wilting_point_pct": 20.0,
+    "available_water_capacity_mm_m": 190.0,
+    "ph_typical": 7.8,
+    "cation_exchange_capacity_meq_100g": 38.0,
+    "recommended_amendments": "Broad bed furrow planting to prevent waterlogging; apply elemental Sulphur and Farmyard Manure (FYM)."
+  },
+  "Red Sandy Loam": {
+    "description": "Formed from crystalline granite rocks; porous, gravelly, low organic matter, responds well to drip irrigation.",
+    "bulk_density_g_cm3": 1.5,
+    "porosity_pct": 39.0,
+    "field_capacity_pct": 19.0,
+    "wilting_point_pct": 7.0,
+    "available_water_capacity_mm_m": 110.0,
+    "ph_typical": 6.4,
+    "cation_exchange_capacity_meq_100g": 12.0,
+    "recommended_amendments": "Heavy green manuring with Sunhemp/Dhaincha; lime application if pH falls below 5.8."
+  },
+  "Laterite": {
+    "description": "Formed under intense tropical weathering with heavy rainfall; rich in iron and aluminum oxides, acidic.",
+    "bulk_density_g_cm3": 1.55,
+    "porosity_pct": 40.0,
+    "field_capacity_pct": 22.0,
+    "wilting_point_pct": 10.0,
+    "available_water_capacity_mm_m": 120.0,
+    "ph_typical": 5.4,
+    "cation_exchange_capacity_meq_100g": 9.0,
+    "recommended_amendments": "Agricultural lime or dolomite (2-3 tons/ha) to neutralize toxic aluminum; rock phosphate with PSB."
+  },
+  "Clay Loam": {
+    "description": "Balanced soil with approx 30% clay, 40% silt, 30% sand; excellent nutrient retention and moderate drainage.",
+    "bulk_density_g_cm3": 1.38,
+    "porosity_pct": 48.0,
+    "field_capacity_pct": 32.0,
+    "wilting_point_pct": 15.0,
+    "available_water_capacity_mm_m": 170.0,
+    "ph_typical": 6.9,
+    "cation_exchange_capacity_meq_100g": 24.0,
+    "recommended_amendments": "Vermicompost dosing (2 tons/acre) and minimum tillage to preserve soil aggregate stability."
+  },
+  "Sandy Loam": {
+    "description": "Light, warm, fast-draining soil; low natural fertility but responds dramatically to precision fertigation.",
+    "bulk_density_g_cm3": 1.48,
+    "porosity_pct": 42.0,
+    "field_capacity_pct": 18.0,
+    "wilting_point_pct": 6.0,
+    "available_water_capacity_mm_m": 100.0,
+    "ph_typical": 7.0,
+    "cation_exchange_capacity_meq_100g": 11.0,
+    "recommended_amendments": "Frequent split applications of water-soluble fertilizers; heavy biochar and mulching to retain moisture."
+  },
+  "Desert Sandy": {
+    "description": "Arid aeolian sand with low water holding capacity; prone to wind erosion; requires drip irrigation.",
+    "bulk_density_g_cm3": 1.6,
+    "porosity_pct": 36.0,
+    "field_capacity_pct": 11.0,
+    "wilting_point_pct": 3.0,
+    "available_water_capacity_mm_m": 65.0,
+    "ph_typical": 8.2,
+    "cation_exchange_capacity_meq_100g": 6.0,
+    "recommended_amendments": "Hydrogel polymers, shelterbelt tree windbreaks (Khejri, Neem), drip irrigation mandatory."
+  },
+  "Peaty / Marshy": {
+    "description": "Formed under anaerobic submerged conditions; very high organic matter (>15%), often acidic with blue-grey iron.",
+    "bulk_density_g_cm3": 0.95,
+    "porosity_pct": 65.0,
+    "field_capacity_pct": 55.0,
+    "wilting_point_pct": 28.0,
+    "available_water_capacity_mm_m": 220.0,
+    "ph_typical": 4.8,
+    "cation_exchange_capacity_meq_100g": 45.0,
+    "recommended_amendments": "Drainage channels, sub-surface tile drains, copper and zinc supplementation, liming."
+  },
+  "Saline / Alkaline": {
+    "description": "High soluble salts or exchangeable sodium percentage (ESP > 15%); poor physical structure, dispersion.",
+    "bulk_density_g_cm3": 1.58,
+    "porosity_pct": 38.0,
+    "field_capacity_pct": 26.0,
+    "wilting_point_pct": 14.0,
+    "available_water_capacity_mm_m": 90.0,
+    "ph_typical": 8.9,
+    "cation_exchange_capacity_meq_100g": 22.0,
+    "recommended_amendments": "Gypsum requirement calculation: apply mineral Gypsum (4-8 tons/ha), flush with fresh water, grow Dhaincha."
+  }
+}
