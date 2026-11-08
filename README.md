@@ -2,7 +2,7 @@
 ### Autonomous Multimodal Agricultural Intelligence Engine & Farm Operating System for Precision Soil Pedology, Aquifer Hydrology, Crop Optimization, Market Arbitrage, and Rural Wealth Generation
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amifarmer.streamlit.app/)
-[![DOI](https://zenodo.org/badge/1450091152.svg)](https://zenodo.org/badge/latestdoi/1450091152)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24050844.svg)](https://doi.org/10.5281/zenodo.24050844)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Project Status](https://img.shields.io/badge/Status-Active%20Research%20%7C%20Production%20v1.0.0-success.svg)]()
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
@@ -33,7 +33,7 @@
 | **Cloud Deployment** | `Live & Operational` | Deployed on Streamlit Community Cloud ([amifarmer.streamlit.app](https://amifarmer.streamlit.app/)) |
 | **Research Validation** | `ICAR-IARI & CGWB Calibrated` | Validated across 15 Indian Agro-Climatic Zones & CGWB Aquifer Depths |
 | **Test Coverage** | `100% Pass Rate (9/9 Modules)` | Automated pytest suite covering pedology, hydrology, and Pareto optimization |
-| **Digital Object Identifier** | `Zenodo Active Tracker` | Archival repository tracked on Zenodo (GitHub Repo ID: `1450091152`) |
+| **Digital Object Identifier** | `10.5281/zenodo.24050844` | Official Zenodo archival DOI for Arpanthebaap/AmiFarmer |
 | **Licensing** | `MIT Open-Source Permissive` | Open for global farmer welfare, academic research, and commercial extension |
 
 ---
@@ -501,9 +501,10 @@ If you utilize AmiFarmer or its agronomic optimization algorithms in your resear
   author       = {Ghosh, Arpan},
   title        = {{AmiFarmer: Autonomous Multimodal Agricultural Intelligence Engine and Farm Operating System}},
   year         = {2026},
-  publisher    = {GitHub},
+  publisher    = {Zenodo},
   version      = {1.0.0},
-  url          = {https://github.com/Arpanthebaap/AmiFarmer}
+  doi          = {10.5281/zenodo.24050844},
+  url          = {https://doi.org/10.5281/zenodo.24050844}
 }
 ```
 
